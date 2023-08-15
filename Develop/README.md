@@ -1,5 +1,5 @@
-![GNU General Public License v3.0 badge](https://www.gnu.org/graphics/gplv3-with-text-136x68.png) 
-# Project #
+![Apache License 2.0 badge](https://www.opensourcecms.com/wp-content/uploads/apache-license.gif) 
+# Title #
 
 ## TABLE OF CONTENTS ##
 - [Description](#description)
@@ -10,17 +10,17 @@
 - [Test](#test)
 - [Questions](#questions)
 ## DESCRIPTION ##
-Description of project
+Description
 ## INSTALLATION ##
-Please read carefully
+Instructions
 ## USAGE ##
-Please describe usage
+Often
 ## CONTRIBUTING ##
-What was your contribution?
+Contrbution guidlines
 ## LICENSE ##
-GNU General Public License v3.0
+Apache License 2.0
 ## TEST ##
-What was your test score?
+test
 ## QUESTIONS ##
 Github user name: [MikeWentForth](https://github.com/MikeWentForth)   
 For any additional questions, please EMAIL me at: [themikewallace@gmail.com](mailto:themikewallace@gmail.com)
